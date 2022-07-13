@@ -1,0 +1,3 @@
+I'm v0id, aspiring security researcher and blue team practitioner using GitHub to practice my python skills. I'll probably mostly use this repo to show recruiters and hiring managers my horrendous python skills that might just cut it to write a simple automation script, but if you happen to stumble upon something of value that I created, then enjoy and I'm glad you're here.
+
+If there's any reason you'd want to contact me I'm reachable on LinkedIn: https://www.linkedin.com/in/dominik-szczud%C5%82o-5335591b2/, maybe I'll add some more socials when there'll be an actual reason to put it out there.
